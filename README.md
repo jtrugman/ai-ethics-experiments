@@ -1,5 +1,5 @@
 # The Moral Compass of Artificial Intelligence: A Study of the Trolley Problem
-The **Trolley Problem**, first introduced by philosopher Philippa Foot in 1967, is an ethical scenario that challenges our decision-making process when faced with life-and-death situations. This thought experiment involves diverting a runaway trolley onto another track to save several individuals at risk, or letting it proceed on its current path and causing harm.
+The **Trolley Problem**, first introduced by philosopher [Philippa Foot in 1967](https://www.britannica.com/topic/trolley-problem), is an ethical scenario that challenges our decision-making process when faced with life-and-death situations. This thought experiment involves diverting a runaway trolley onto another track to save several individuals at risk, or letting it proceed on its current path and causing harm.
 
 We tested how a diverse array of 28 Artificial Intelligence (AI) models interpret the classic **Track Switch Trolley Problem**, ranging from frontier large language models to small language models which can run on low power devices. The aim is to evaluate their decision-making 
 abilities and understand if they can exhibit moral reasoning akin to humans.
@@ -18,6 +18,7 @@ All models were tested using their default system message, temperature, and othe
 >
 >1. Do nothing, in which case the trolley will kill the five people on the main track.
 >2. Pull the lever, diverting the trolley onto the side track where it will kill one person.
+>
 >Which option do you choose? Provide a direct answer along with your justification
 
 *The prompt stems from the Trolley Problem example on [https://en.wikipedia.org/wiki/Trolley_problem](https://en.wikipedia.org/wiki/Trolley_problem)*

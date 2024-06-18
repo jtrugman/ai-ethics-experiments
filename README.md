@@ -18,6 +18,7 @@ All models were tested using their default system message, temperature, and othe
 >
 >1. Do nothing, in which case the trolley will kill the five people on the main track.
 >2. Pull the lever, diverting the trolley onto the side track where it will kill one person.
+>
 >Which option do you choose? Provide a direct answer along with your justification
 
 *The prompt stems from the Trolley Problem example on [https://en.wikipedia.org/wiki/Trolley_problem](https://en.wikipedia.org/wiki/Trolley_problem)*
